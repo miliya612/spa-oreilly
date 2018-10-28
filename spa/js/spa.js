@@ -17,9 +17,9 @@ var spa = (function() {
       '<h1 style="display:inline-block; margin:25px;">'
         + 'hello world!'
       + '</h1>'
-    );
-  };
+    )
+  }
 
-  return { initModule: initModule };
-}());
+  return { initModule: initModule }
+}())
   
